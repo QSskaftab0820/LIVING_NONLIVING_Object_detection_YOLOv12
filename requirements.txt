@@ -1,5 +1,5 @@
-ultralytics==8.2.77
 opencv-python-headless
+ultralytics==8.2.77
 torch
 torchvision
 torchaudio
