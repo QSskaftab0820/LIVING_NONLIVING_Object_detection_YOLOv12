@@ -1,0 +1,9 @@
+ultralytics==8.2.77
+opencv-python-headless
+torch
+torchvision
+torchaudio
+streamlit
+numpy
+pillow
+huggingface_hub
