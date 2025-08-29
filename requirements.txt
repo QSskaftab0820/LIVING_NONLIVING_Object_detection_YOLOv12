@@ -7,3 +7,4 @@ streamlit
 numpy
 pillow
 huggingface_hub
+cv2
