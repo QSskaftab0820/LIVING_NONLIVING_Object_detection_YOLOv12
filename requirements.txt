@@ -6,3 +6,4 @@ torchaudio
 streamlit
 numpy
 pillow
+huggingface_hub
