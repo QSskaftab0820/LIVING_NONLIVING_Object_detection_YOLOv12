@@ -1,10 +1,9 @@
-opencv-python-headless
-ultralytics==8.2.77
-torch
-torchvision
-torchaudio
 streamlit
+
+torch
+
+ultralytics
+
+opencv-python-headless
+
 numpy
-pillow
-huggingface_hub
-cv2
